@@ -2,7 +2,7 @@
 For this project, I executed end-to-end strategic planning and analysis of 700k rideshare records that contained data about price, ride type, source, destination, time, and weather.
 
 Check out my full Tableau story here:  
-[View on Tableau Public](https://public.tableau.com/views/AnalysisandPredictionofRidesharePricesUsingData-DrivenModeling/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View on Tableau Public](https://public.tableau.com/views/AnalysisandPredictionofRidesharePricesUsesData-DrivenModeling/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## What it does
 After analyzing all the variables available, I identified which had that strongest relationship to price and created a predictive model to forecast future prices.
